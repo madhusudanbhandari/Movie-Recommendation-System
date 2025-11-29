@@ -1,0 +1,9 @@
+Title=Movie Recommendation System
+  
+
+  types of Recommendation systems:
+            1.Content Based
+            2.Collaboration Filtering
+
+  ##Vectorization:converting text into vectors 
+  ##distance=not euclidean(tip to tip distance) but a cosine distance(angle betweem two vectors)
